@@ -34,7 +34,7 @@
 1. Meetings shall be held weekly, or at the discretion of the Executive Board.
 2. The Annual Election meeting will be held two to four weeks prior to the expiration of the Officers' term of office. At this meeting, the Secretary and Treasurer each shall present the required reports. Also, the election of officers shall be held. Written or electronic notices of all meetings shall be distributed to all members at least one week prior to any meeting.
 
-## ARTICLE VII – Disbursements And Dues 
+## ARTICLE VII – Disbursements 
 1. Disbursements from the Treasury for COGS expenditures shall be made by the Treasurer with authorization of the Executive Board and shall be included in the minutes of its meetings.
 
 ## ARTICLE VIII – Amendment, Election, And Voting Procedures
