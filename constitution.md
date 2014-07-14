@@ -36,14 +36,15 @@
 
 ## ARTICLE VII – Disbursements And Dues 
 1. Disbursements from the Treasury for COGS expenditures shall be made by the Treasurer with authorization of the Executive Board and shall be included in the minutes of its meetings.
-2. Dues shall be fixed annually by the Executive Board.
 
 ## ARTICLE VIII – Amendment, Election, And Voting Procedures
 1. All proposed changes to these COGS Bylaws shall be approved by the President and Sergeant-at-Arms before being presented to COGS membership for a vote.
 2. All votes of the group will be announced fourteen days prior to the vote. No official business of COGS shall be conducted unless a quorum is present. A quorum of COGS shall be defined as 10 percent of the voting membership of COGS or at least 5 members.
 3. A simple majority of the voting members present shall be required to carry a motion.
 
-## ARTICLE IX – Rules Of Conduct
+## ARTICLE IX
+1. An officer can be removed from office through the process of impeachment. Impeachment proceedings may be brought against any executive officer of the organization by any 3 members of the organization. Grounds for impeachment include negligence or abandonment of duty to the organization, severe infraction of University policy while acting under the authority or representation of the organization, or any action which intentionally and maliciously harms the organization and/or any of its members. Such claims must be submitted in writing to the executive board no later than one week prior to a hearing in which all charges will be discussed and decided upon by the executive board. The executive board shall inform the officer of any such charges immediately or as soon as possible of any such claims. The impeachment vote shall be taken at this meeting. The individual being considered for expulsion shall not have a vote and shall not be counted amongst the number of voting members present. A two-thirds vote of the voting members is required to remove a member from office. If the President is the member being considered for expulsion, the Sergeant-at-Arms shall run the proceedings.
+
+## ARTICLE X – Rules Of Conduct
 1. This organization shall abide by all applicable laws of the State of New Jersey and the United States.
 2. This organization shall abide by all applicable rules and regulations of the University and under the privileges as granted by the Division of Student Affairs and by the rules and regulations of the Board of Governors.
-3. In the event of a dispute between two members of COGS on any matter related to COGS activities, one student may challenge another in the Super Smash Brothers series of games. This match shall be supervised by either the President or Sergeant-at-Arms, and either may decline to allow the challenge to proceed. The challenged party may determine the rules of the match.
