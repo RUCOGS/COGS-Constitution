@@ -42,7 +42,7 @@
 2. All votes of the group will be announced fourteen days prior to the vote. No official business of COGS shall be conducted unless a quorum is present. A quorum of COGS shall be defined as 10 percent of the voting membership of COGS or at least 5 members.
 3. A 2/3 majority of the voting members present shall amend this constitution, subject to the approval of the Office of Student Involvement.
 
-## ARTICLE IX
+## ARTICLE IX – Impeachment of Officers
 1. An officer can be removed from office through the process of impeachment. Impeachment proceedings may be brought against any executive officer of the organization by any 3 members of the organization. Grounds for impeachment include negligence or abandonment of duty to the organization, severe infraction of University policy while acting under the authority or representation of the organization, or any action which intentionally and maliciously harms the organization and/or any of its members. Such claims must be submitted in writing to the executive board no later than one week prior to a hearing in which all charges will be discussed and decided upon by the executive board. The executive board shall inform the officer of any such charges immediately or as soon as possible of any such claims. The impeachment vote shall be taken at this meeting. The individual being considered for expulsion shall not have a vote and shall not be counted amongst the number of voting members present. A two-thirds vote of the voting members is required to remove a member from office. If the President is the member being considered for expulsion, the Sergeant-at-Arms shall run the proceedings.
 
 ## ARTICLE X – Rules Of Conduct
